@@ -1,0 +1,188 @@
+[
+ {
+  "Ciudad": "Piura",
+  "Latitud": -5.19449,
+  "Longitud": -80.63282,
+  "Tipo": "Principal"
+ },
+ {
+  "Ciudad": "Sullana",
+  "Latitud": -4.90389,
+  "Longitud": -80.68528,
+  "Tipo": "Principal"
+ },
+ {
+  "Ciudad": "Talara",
+  "Latitud": -4.57722,
+  "Longitud": -81.27194,
+  "Tipo": "Principal"
+ },
+ {
+  "Ciudad": "Mancora",
+  "Latitud": -4.10778,
+  "Longitud": -81.0475,
+  "Tipo": "Principal"
+ },
+ {
+  "Ciudad": "Paita",
+  "Latitud": -5.08917,
+  "Longitud": -81.11444,
+  "Tipo": "Principal"
+ },
+ {
+  "Ciudad": "Sechura",
+  "Latitud": -5.55694,
+  "Longitud": -80.82222,
+  "Tipo": "Principal"
+ },
+ {
+  "Ciudad": "Morropon",
+  "Latitud": -5.1868,
+  "Longitud": -79.97076,
+  "Tipo": "Principal"
+ },
+ {
+  "Ciudad": "Catacaos",
+  "Latitud": -5.26920559075166,
+  "Longitud": -80.6694335972059,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "La Arena",
+  "Latitud": -5.34133636211825,
+  "Longitud": -80.7102890023026,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "Cura Mori",
+  "Latitud": -5.32612465106543,
+  "Longitud": -80.6697769236122,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "Chato",
+  "Latitud": -5.34629290588399,
+  "Longitud": -80.6577606279955,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "Villa Chatito",
+  "Latitud": -5.37842400625926,
+  "Longitud": -80.7099456832451,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "El Tallan",
+  "Latitud": -5.41089520406003,
+  "Longitud": -80.6821365407947,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "La Union",
+  "Latitud": -5.4037175106212,
+  "Longitud": -80.7370681802316,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "Vice",
+  "Latitud": -5.4167056570326,
+  "Longitud": -80.779125215737,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "Becara",
+  "Latitud": -5.44199755977253,
+  "Longitud": -80.8041877751661,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "Bernal",
+  "Latitud": -5.4727565481757,
+  "Longitud": -80.7475395244017,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "San Cristo",
+  "Latitud": -5.49291991597525,
+  "Longitud": -80.7441062970827,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "Yapato",
+  "Latitud": -5.49155292952312,
+  "Longitud": -80.8124275207319,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "Jibito",
+  "Latitud": -4.90475766054984,
+  "Longitud": -80.7492783185907,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "Marcavelica",
+  "Latitud": -4.86644522061115,
+  "Longitud": -80.7135727544726,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "La Bomba",
+  "Latitud": -4.85241958467812,
+  "Longitud": -80.7829239463175,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "Tangarara",
+  "Latitud": -4.88662793961011,
+  "Longitud": -80.8175995422399,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "Ignacio Escudero",
+  "Latitud": -4.84489351347297,
+  "Longitud": -80.8721878566129,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "Milla 7",
+  "Latitud": -4.562383552992,
+  "Longitud": -81.2173897406118,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "Jabonillal",
+  "Latitud": -4.52478305025218,
+  "Longitud": -81.2017706314728,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "Lobitos",
+  "Latitud": -4.45735614154242,
+  "Longitud": -81.2810781825429,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "El Alto",
+  "Latitud": -4.26512590589856,
+  "Longitud": -81.2171720376567,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "Organos",
+  "Latitud": -4.17692969288386,
+  "Longitud": -81.1244421589639,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "Tambo Grande",
+  "Latitud": -4.92843219938445,
+  "Longitud": -80.3356864764655,
+  "Tipo": "Intermedio"
+ },
+ {
+  "Ciudad": "Chulucanas",
+  "Latitud": -5.08996675202905,
+  "Longitud": -80.1503081217159,
+  "Tipo": "Intermedio"
+ }
+]

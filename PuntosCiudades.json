@@ -1,0 +1,398 @@
+[
+ {
+  "Ciudad_1": "Piura",
+  "Latitud_1": -5.19449,
+  "Longitud_1": -80.63282,
+  "Ciudad_2": "Catacaos",
+  "Latitud_2": -5.26920559075166,
+  "Longitud_2": -80.6694335972059,
+  "Distancia": 0.08320441696043228
+ },
+ {
+  "Ciudad_1": "Piura",
+  "Latitud_1": -5.19449,
+  "Longitud_1": -80.63282,
+  "Ciudad_2": "Sullana",
+  "Latitud_2": -4.90389,
+  "Longitud_2": -80.68528,
+  "Distancia": 0.29529715813058777
+ },
+ {
+  "Ciudad_1": "Piura",
+  "Latitud_1": -5.19449,
+  "Longitud_1": -80.63282,
+  "Ciudad_2": "Tambo Grande",
+  "Latitud_2": -4.92843219938445,
+  "Longitud_2": -80.3356864764655,
+  "Distancia": 0.39884217940986355
+ },
+ {
+  "Ciudad_1": "Piura",
+  "Latitud_1": -5.19449,
+  "Longitud_1": -80.63282,
+  "Ciudad_2": "Chulucanas",
+  "Latitud_2": -5.08996675202905,
+  "Longitud_2": -80.1503081217159,
+  "Distancia": 0.4937031720088975
+ },
+ {
+  "Ciudad_1": "Chulucanas",
+  "Latitud_1": -5.08996675202905,
+  "Longitud_1": -80.1503081217159,
+  "Ciudad_2": "Morropon",
+  "Latitud_2": -5.1868,
+  "Longitud_2": -79.97076,
+  "Distancia": 0.20399560270826875
+ },
+ {
+  "Ciudad_1": "Sullana",
+  "Latitud_1": -4.90389,
+  "Longitud_1": -80.68528,
+  "Ciudad_2": "Tambo Grande",
+  "Latitud_2": -4.92843219938445,
+  "Longitud_2": -80.3356864764655,
+  "Distancia": 0.35045392171853235
+ },
+ {
+  "Ciudad_1": "Tambo Grande",
+  "Latitud_1": -4.92843219938445,
+  "Longitud_1": -80.3356864764655,
+  "Ciudad_2": "Chulucanas",
+  "Latitud_2": -5.08996675202905,
+  "Longitud_2": -80.1503081217159,
+  "Distancia": 0.2458831960662631
+ },
+ {
+  "Ciudad_1": "Catacaos",
+  "Latitud_1": -5.26920559075166,
+  "Longitud_1": -80.6694335972059,
+  "Ciudad_2": "La Arena",
+  "Latitud_2": -5.34133636211825,
+  "Longitud_2": -80.7102890023026,
+  "Distancia": 0.08289760131364036
+ },
+ {
+  "Ciudad_1": "Catacaos",
+  "Latitud_1": -5.26920559075166,
+  "Longitud_1": -80.6694335972059,
+  "Ciudad_2": "Cura Mori",
+  "Latitud_2": -5.32612465106543,
+  "Longitud_2": -80.6697769236122,
+  "Distancia": 0.056920095748547554
+ },
+ {
+  "Ciudad_1": "Cura Mori",
+  "Latitud_1": -5.32612465106543,
+  "Longitud_1": -80.6697769236122,
+  "Ciudad_2": "Chato",
+  "Latitud_2": -5.34629290588399,
+  "Longitud_2": -80.6577606279955,
+  "Distancia": 0.02347658115600264
+ },
+ {
+  "Ciudad_1": "Chato",
+  "Latitud_1": -5.34629290588399,
+  "Longitud_1": -80.6577606279955,
+  "Ciudad_2": "Villa Chatito",
+  "Latitud_2": -5.37842400625926,
+  "Longitud_2": -80.7099456832451,
+  "Distancia": 0.06128366505626856
+ },
+ {
+  "Ciudad_1": "La Arena",
+  "Latitud_1": -5.34133636211825,
+  "Longitud_1": -80.7102890023026,
+  "Ciudad_2": "Villa Chatito",
+  "Latitud_2": -5.37842400625926,
+  "Longitud_2": -80.7099456832451,
+  "Distancia": 0.03708923315337491
+ },
+ {
+  "Ciudad_1": "La Arena",
+  "Latitud_1": -5.34133636211825,
+  "Longitud_1": -80.7102890023026,
+  "Ciudad_2": "La Union",
+  "Latitud_2": -5.4037175106212,
+  "Longitud_2": -80.7370681802316,
+  "Distancia": 0.06788616986618223
+ },
+ {
+  "Ciudad_1": "Villa Chatito",
+  "Latitud_1": -5.37842400625926,
+  "Longitud_1": -80.7099456832451,
+  "Ciudad_2": "La Union",
+  "Latitud_2": -5.4037175106212,
+  "Longitud_2": -80.7370681802316,
+  "Distancia": 0.03708626707678451
+ },
+ {
+  "Ciudad_1": "Villa Chatito",
+  "Latitud_1": -5.37842400625926,
+  "Longitud_1": -80.7099456832451,
+  "Ciudad_2": "El Tallan",
+  "Latitud_2": -5.41089520406003,
+  "Longitud_2": -80.6821365407947,
+  "Distancia": 0.04275192499108174
+ },
+ {
+  "Ciudad_1": "El Tallan",
+  "Latitud_1": -5.41089520406003,
+  "Longitud_1": -80.6821365407947,
+  "Ciudad_2": "Bernal",
+  "Latitud_2": -5.4727565481757,
+  "Longitud_2": -80.7475395244017,
+  "Distancia": 0.09002430871989482
+ },
+ {
+  "Ciudad_1": "El Tallan",
+  "Latitud_1": -5.41089520406003,
+  "Longitud_1": -80.6821365407947,
+  "Ciudad_2": "La Union",
+  "Latitud_2": -5.4037175106212,
+  "Longitud_2": -80.7370681802316,
+  "Distancia": 0.055398594696324015
+ },
+ {
+  "Ciudad_1": "La Union",
+  "Latitud_1": -5.4037175106212,
+  "Longitud_1": -80.7370681802316,
+  "Ciudad_2": "Bernal",
+  "Latitud_2": -5.4727565481757,
+  "Longitud_2": -80.7475395244017,
+  "Distancia": 0.06982863134259715
+ },
+ {
+  "Ciudad_1": "La Union",
+  "Latitud_1": -5.4037175106212,
+  "Longitud_1": -80.7370681802316,
+  "Ciudad_2": "Vice",
+  "Latitud_2": -5.4167056570326,
+  "Longitud_2": -80.779125215737,
+  "Distancia": 0.04401688519995412
+ },
+ {
+  "Ciudad_1": "Vice",
+  "Latitud_1": -5.4167056570326,
+  "Longitud_1": -80.779125215737,
+  "Ciudad_2": "Becara",
+  "Latitud_2": -5.44199755977253,
+  "Longitud_2": -80.8041877751661,
+  "Distancia": 0.035606350969221316
+ },
+ {
+  "Ciudad_1": "Becara",
+  "Latitud_1": -5.44199755977253,
+  "Longitud_1": -80.8041877751661,
+  "Ciudad_2": "Yapato",
+  "Latitud_2": -5.49155292952312,
+  "Longitud_2": -80.8124275207319,
+  "Distancia": 0.050235725117757056
+ },
+ {
+  "Ciudad_1": "Yapato",
+  "Latitud_1": -5.49155292952312,
+  "Longitud_1": -80.8124275207319,
+  "Ciudad_2": "Sechura",
+  "Latitud_2": -5.55694,
+  "Longitud_2": -80.82222,
+  "Distancia": 0.06611627360767246
+ },
+ {
+  "Ciudad_1": "Bernal",
+  "Latitud_1": -5.4727565481757,
+  "Longitud_1": -80.7475395244017,
+  "Ciudad_2": "San Cristo",
+  "Latitud_2": -5.49291991597525,
+  "Longitud_2": -80.7441062970827,
+  "Distancia": 0.020453568168999556
+ },
+ {
+  "Ciudad_1": "San Cristo",
+  "Latitud_1": -5.49291991597525,
+  "Longitud_1": -80.7441062970827,
+  "Ciudad_2": "Sechura",
+  "Latitud_2": -5.55694,
+  "Longitud_2": -80.82222,
+  "Distancia": 0.10099664223126083
+ },
+ {
+  "Ciudad_1": "Piura",
+  "Latitud_1": -5.19449,
+  "Longitud_1": -80.63282,
+  "Ciudad_2": "Paita",
+  "Latitud_2": -5.08917,
+  "Longitud_2": -81.11444,
+  "Distancia": 0.49300114279787055
+ },
+ {
+  "Ciudad_1": "Sullana",
+  "Latitud_1": -4.90389,
+  "Longitud_1": -80.68528,
+  "Ciudad_2": "Jibito",
+  "Latitud_2": -4.90475766054984,
+  "Longitud_2": -80.7492783185907,
+  "Distancia": 0.06400419999707349
+ },
+ {
+  "Ciudad_1": "Sullana",
+  "Latitud_1": -4.90389,
+  "Longitud_1": -80.68528,
+  "Ciudad_2": "Marcavelica",
+  "Latitud_2": -4.86644522061115,
+  "Longitud_2": -80.7135727544726,
+  "Distancia": 0.046931774514988624
+ },
+ {
+  "Ciudad_1": "Jibito",
+  "Latitud_1": -4.90475766054984,
+  "Longitud_1": -80.7492783185907,
+  "Ciudad_2": "Tangarara",
+  "Latitud_2": -4.88662793961011,
+  "Longitud_2": -80.8175995422399,
+  "Distancia": 0.07068575798757054
+ },
+ {
+  "Ciudad_1": "Marcavelica",
+  "Latitud_1": -4.86644522061115,
+  "Longitud_1": -80.7135727544726,
+  "Ciudad_2": "La Bomba",
+  "Latitud_2": -4.85241958467812,
+  "Longitud_2": -80.7829239463175,
+  "Distancia": 0.07075525615552734
+ },
+ {
+  "Ciudad_1": "Tangarara",
+  "Latitud_1": -4.88662793961011,
+  "Longitud_1": -80.8175995422399,
+  "Ciudad_2": "Ignacio Escudero",
+  "Latitud_2": -4.84489351347297,
+  "Longitud_2": -80.8721878566129,
+  "Distancia": 0.06871423717892162
+ },
+ {
+  "Ciudad_1": "La Bomba",
+  "Latitud_1": -4.85241958467812,
+  "Longitud_1": -80.7829239463175,
+  "Ciudad_2": "Ignacio Escudero",
+  "Latitud_2": -4.84489351347297,
+  "Longitud_2": -80.8721878566129,
+  "Distancia": 0.08958061971771762
+ },
+ {
+  "Ciudad_1": "Ignacio Escudero",
+  "Latitud_1": -4.84489351347297,
+  "Longitud_1": -80.8721878566129,
+  "Ciudad_2": "Milla 7",
+  "Latitud_2": -4.562383552992,
+  "Longitud_2": -81.2173897406118,
+  "Distancia": 0.4460675044063921
+ },
+ {
+  "Ciudad_1": "Milla 7",
+  "Latitud_1": -4.562383552992,
+  "Longitud_1": -81.2173897406118,
+  "Ciudad_2": "Talara",
+  "Latitud_2": -4.57722,
+  "Longitud_2": -81.27194,
+  "Distancia": 0.056531857913409436
+ },
+ {
+  "Ciudad_1": "Milla 7",
+  "Latitud_1": -4.562383552992,
+  "Longitud_1": -81.2173897406118,
+  "Ciudad_2": "Jabonillal",
+  "Latitud_2": -4.52478305025218,
+  "Longitud_2": -81.2017706314728,
+  "Distancia": 0.040715529918976354
+ },
+ {
+  "Ciudad_1": "Talara",
+  "Latitud_1": -4.57722,
+  "Longitud_1": -81.27194,
+  "Ciudad_2": "Lobitos",
+  "Latitud_2": -4.45735614154242,
+  "Longitud_2": -81.2810781825429,
+  "Distancia": 0.12021169221222175
+ },
+ {
+  "Ciudad_1": "Lobitos",
+  "Latitud_1": -4.45735614154242,
+  "Longitud_1": -81.2810781825429,
+  "Ciudad_2": "El Alto",
+  "Latitud_2": -4.26512590589856,
+  "Longitud_2": -81.2171720376567,
+  "Distancia": 0.2025745760205622
+ },
+ {
+  "Ciudad_1": "Jabonillal",
+  "Latitud_1": -4.52478305025218,
+  "Longitud_1": -81.2017706314728,
+  "Ciudad_2": "El Alto",
+  "Latitud_2": -4.26512590589856,
+  "Longitud_2": -81.2171720376567,
+  "Distancia": 0.260113505851423
+ },
+ {
+  "Ciudad_1": "El Alto",
+  "Latitud_1": -4.26512590589856,
+  "Longitud_1": -81.2171720376567,
+  "Ciudad_2": "Organos",
+  "Latitud_2": -4.17692969288386,
+  "Longitud_2": -81.1244421589639,
+  "Distancia": 0.1279742255007411
+ },
+ {
+  "Ciudad_1": "Organos",
+  "Latitud_1": -4.17692969288386,
+  "Longitud_1": -81.1244421589639,
+  "Ciudad_2": "Mancora",
+  "Latitud_2": -4.10778,
+  "Longitud_2": -81.0475,
+  "Distancia": 0.10344938787619079
+ },
+ {
+  "Ciudad_1": "Ignacio Escudero",
+  "Latitud_1": -4.84489351347297,
+  "Longitud_1": -80.8721878566129,
+  "Ciudad_2": "Mancora",
+  "Latitud_2": -4.10778,
+  "Longitud_2": -81.0475,
+  "Distancia": 0.7576745207300073
+ },
+ {
+  "Ciudad_1": "Paita",
+  "Latitud_1": -5.08917,
+  "Longitud_1": -81.11444,
+  "Ciudad_2": "Talara",
+  "Latitud_2": -4.57722,
+  "Longitud_2": -81.27194,
+  "Distancia": 0.5356295851612383
+ },
+ {
+  "Ciudad_1": "Paita",
+  "Latitud_1": -5.08917,
+  "Longitud_1": -81.11444,
+  "Ciudad_2": "Sechura",
+  "Latitud_2": -5.55694,
+  "Longitud_2": -80.82222,
+  "Distancia": 0.5515444690140587
+ },
+ {
+  "Ciudad_1": "Morropon",
+  "Latitud_1": -5.1868,
+  "Longitud_1": -79.97076,
+  "Ciudad_2": "Piura",
+  "Latitud_2": -5.19449,
+  "Longitud_2": -80.63282,
+  "Distancia": 0.6621046591740581
+ },
+ {
+  "Ciudad_1": "Morropon",
+  "Latitud_1": -5.1868,
+  "Longitud_1": -79.97076,
+  "Ciudad_2": "Sechura",
+  "Latitud_2": -5.55694,
+  "Longitud_2": -80.82222,
+  "Distancia": 0.9284329546068499
+ }
+]
